@@ -1,4 +1,4 @@
-package com.spring.authentication.springsecurityauthentication;
+package com.spring.authentication.springsecurityauthentication.services;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
